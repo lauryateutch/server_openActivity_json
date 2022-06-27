@@ -1,0 +1,68 @@
+{
+    "activities": [
+      { "id": 1,
+        "title": "amazing d", 
+        "author": "Ateutchia",
+        "description": "the surf survivor course encompasses all aspects of the Baywatch",
+        "duration": "00:00:36",
+        "created_by": "ISNOV SARL",
+        "image":"https://cdn.pixabay.com/photo/2017/05/06/10/32/dog-2289451_960_720.jpg",
+        "popularity":"10",
+        "category_id":"2",
+        "category": "Surfing",
+        "keyword":"surfing,survivor" 
+    },
+    { "id": 2,
+        "title": "Sufing en ligne", 
+        "author": "Tonmezo",
+        "description": "the surf survivor course encompasses all aspects of the Baywatch",
+        "duration": "00:00:35",
+        "created_by": "ISNOV SARL",
+        "image":"https://cdn.pixabay.com/photo/2022/06/05/16/09/kite-surfing-7244337_960_720.jpg",
+        "popularity":"10",
+        "category_id":"1",
+        "category": "Surfing",
+        "keyword":"surfing,survivor" 
+    },
+
+    { "id": 3,
+        "title": "surf en haute mer", 
+        "author": "Ateutchia",
+        "description": " the surf survivor course encompasses all aspects of the Baywatch",
+        "duration": "00:00:36",
+        "created_by":"ISNOV SARL",
+        "image":"https://cdn.pixabay.com/photo/2020/08/18/06/06/extreme-5497194_960_720.jpg",
+        "popularity":"10",
+        "category_id":"2",
+        "category":"Surfing",
+        "keyword":"surfing,survivor" 
+    },
+
+
+    { "id": 4,
+        "title": "my favourite anime", 
+        "author": "Laura",
+        "description": " the surf survivor course encompasses all aspects of the Baywatch",
+        "duration": "00:00:36",
+        "created_by": "ISNOV SARL",
+        "image":"https://cdn.pixabay.com/photo/2018/09/11/14/49/moe-3669736_960_720.png",
+        "popularity":"10",
+        "category_id":"2",
+        "category":"anime",
+        "keyword":"anime,survivor" 
+    },
+
+    { "id": 5,
+        "title": "super Hero woman", 
+        "author": "Laura",
+        "description": " the surf survivor course encompasses all aspects of the Baywatch",
+        "duration": "00:00:36",
+        "created_by": "ISNOV SARL",
+        "image":"https://cdn.pixabay.com/photo/2016/12/05/21/55/super-woman-1885016_960_720.jpg",
+        "popularity":"10",
+        "category_id":"2",
+        "category": "anime",
+        "keyword":"anime,survivor" 
+    }
+    ]
+  }

@@ -1,0 +1,11 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "rest api for ionic 4 project",
+  "main": "index.js",
+  "scripts": {
+    "json-server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
